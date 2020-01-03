@@ -1,14 +1,12 @@
 [
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "GALLETA-OREO-variedades-126-g-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
    "categoria": "super-precio",
    "subcategoria": "snack",
    "producto": "Galleta Oreo",
-   "descripcion": "Variedades 126 g.",
+   "descripcion": "Variedades 126 g",
    "formatoDesde": "un",
    "desdePrecioUno": 6,
    "ofertaPrecioUno": 349,
@@ -20,15 +18,13 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "CHEEZELS-RETRO-SNACK-EVERCRISP-270-G-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
    "categoria": "super-precio",
    "subcategoria": "snack",
    "producto": "Cheezels Retro Snack Evercrisp",
-   "descripcion": "270 g.",
+   "descripcion": "270 g",
    "formatoDesde": "un",
    "desdePrecioUno": 2,
    "ofertaPrecioUno": 1290,
@@ -40,15 +36,13 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "CHICLE-BIGTIME-variedades-6-un-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
    "categoria": "super-precio",
    "subcategoria": "despensa",
    "producto": "Chicle Bigtime",
-   "descripcion": "Variedades 6 un.",
+   "descripcion": "Variedades 6 un",
    "formatoDesde": "un",
    "desdePrecioUno": null,
    "ofertaPrecioUno": null,
@@ -60,8 +54,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Toalla-Nova-clasica-12-5mt-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -80,8 +72,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Toalla-femenina-Nosotras-buenas-noches-tela-suave-8-un-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -100,8 +90,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Papel-higienico-Elite-Ultra-doble-hoja-4-un-x-25-mt-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -120,8 +108,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Cloro-gel-Igenix-variedades-900-ml-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -140,8 +126,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Toallas-humedas-Huggies-OneDone-80-un-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -160,8 +144,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Lavalozas-Quix-limon-500-ml-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -180,8 +162,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Lavalozas-Virginia-Citrus-doypack-1-lt-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -200,8 +180,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Toalla-de-papel-Scott-multiuso-display-3unx10mt-03012020.png",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -220,8 +198,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Papel-higienico-Favorita-Clasico-display6unx50mt-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -240,8 +216,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Panal-Pampers-Premium-Care-talla-M-24-un-G-20-un-XG-XXG-16-un-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -260,8 +234,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Pack-Raid-Insecticida-sin-olorMax-Eucaliptus-2x360ml-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -280,8 +252,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Yoghurt-batido-Nestlé-variedades-115g-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -300,8 +270,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Yoghurt-1-1-Soprole-variedades-140-g-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -320,8 +288,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Mantequilla-Colun-con-sal-pan-125-g-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -340,8 +306,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "verduras-congeladas-minuto-verde-bolsa-1kg-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -360,8 +324,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "papas-smile-mccain-1_5-kg-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -380,8 +342,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Salchichon-cerveza-PF-pieza-kg-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -400,8 +360,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Pastas-Aconcagua-variedades-400-g-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -420,8 +378,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "FIDEO-SOPA-LUCCHETTI-variedades-250-g-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -440,8 +396,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Spaghetti-o-Espirales-chuevo-Talliani-400-gr-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -460,8 +414,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Nectar-Andina-del-Valle-desechable-variedades-15-lt-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -480,8 +432,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Pisco-35-1733-botella-750-cc-04-10-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -500,8 +450,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Pack-cerveza-Escudo-o-Cristal-lata-12-un-x-470-cc-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -520,8 +468,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Score-Energy-Drink-lata-500-cc-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -540,8 +486,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Pack-cerveza-Becker-lata-24-un-x-350-cc-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -560,8 +504,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Jugo-Turbo-Plus-variedades-rinde-2-lt_05_11_03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -580,8 +522,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Jugo-Turbo-Zero-variedades-rinde-2-lt_03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -600,8 +540,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Agua-Mineral-Livcon-o-sin-gas-botella-desechable-15-lt-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -620,8 +558,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Agua-Cachantun-Mas-variedades-desechable-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -640,8 +576,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Agua-mineral-Pure-Life-Nestlé-sin-gas-bidon-6-lt-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -660,8 +594,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Pack-pisco-35-Mistral-2-un-x-750-cc-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -680,8 +612,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Bebida-CCU-lata-variedades-310-350-cc-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -700,8 +630,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "tripack-ccu-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -720,8 +648,6 @@
    "legal": ""
  },
  {
-   "timer": "a",
-   "buscador": "si",
    "img": "Pack-pisco-35-Mistral-2-un-x-750-cc-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -740,8 +666,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "Bebida-CCU-lata-variedades-310-350-cc-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -760,8 +684,6 @@
    "legal": ""
  },
  {
-   "timer": "si",
-   "buscador": "si",
    "img": "tripack-ccu-03012020.jpg",
    "fechaPublicacion": "2020-01-02 22:00",
    "fechaDespublicacion": "2020-01-16 22:00",
@@ -777,26 +699,6 @@
    "precioNosocio": 4990,
    "porcentajeDescuento": "",
    "formatoPrecio": "c/pack",
-   "legal": ""
- },
- {
-   "timer": "",
-   "buscador": "",
-   "img": "",
-   "fechaPublicacion": "",
-   "fechaDespublicacion": "",
-   "categoria": "",
-   "subcategoria": "",
-   "producto": "",
-   "descripcion": "",
-   "formatoDesde": "",
-   "desdePrecioUno": null,
-   "ofertaPrecioUno": null,
-   "desdePrecioDos": null,
-   "ofertaPrecioDos": null,
-   "precioNosocio": null,
-   "porcentajeDescuento": "",
-   "formatoPrecio": "",
    "legal": ""
  }
 ]
