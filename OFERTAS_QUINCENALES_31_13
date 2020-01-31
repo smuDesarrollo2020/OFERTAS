@@ -1274,7 +1274,7 @@
    "ofertaPrecioUno": 779,
    "desdePrecioDos": 3,
    "ofertaPrecioDos": 829,
-   "precioNosocio": 1069,
+   "precioNosocio": 999,
    "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
@@ -1594,7 +1594,7 @@
    "ofertaPrecioUno": 769,
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 829,
-   "precioNosocio": 1059,
+   "precioNosocio": 1200,
    "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
@@ -1694,7 +1694,7 @@
    "ofertaPrecioUno": 359,
    "desdePrecioDos": 1,
    "ofertaPrecioDos": 389,
-   "precioNosocio": 490,
+   "precioNosocio": 405,
    "porcentajeDescuento": "",
    "formatoPrecio": "c/u",
    "legal": ""
